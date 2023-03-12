@@ -24,7 +24,7 @@ The ultimate goal of our project is to improve the quality of healthcare by empo
 4. Utilize the Cosmos blockchain to achieve scalability, performance, and interoperability.
 5. Develop a working prototype of the decentralized EHR system and present a use case demonstration.
 
-![Flowchart-EHR](Flowchart-EHR.jpg)
+![Flowchart-EHR](https://github.com/brijk20/Medical-Record-Storage-Cosmos/blob/0b3bf95cad21c456057ff5aff4a1a9df57adb310/Flowchart-EHR.png)
 
 
 ## Features:
