@@ -26,7 +26,7 @@ The ultimate goal of our project is to improve the quality of healthcare by empo
 
 ## Process Diagram
 
-![Flowchart-EHR](https://github.com/brijk20/Medical-Record-Storage-Cosmos/blob/0b3bf95cad21c456057ff5aff4a1a9df57adb310/Flowchart-EHR.png)
+![Flowchart-EHR](https://github.com/brijk20/Medical-Record-Storage-Cosmos/blob/09c0669a30c2e385fc43101f3deed4aa8b82a766/Flowchart-EHR.png)
 
 ## Features
 
